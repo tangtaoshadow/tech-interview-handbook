@@ -1,0 +1,22 @@
+{
+  "name": "Tech Interview Handbook",
+  "type": "text",
+  "has_page_numbers": true,
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "cover": {
+    "punchline": "Carefully curated content to ace a technical interview.",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  },
+  "status": "published",
+  "asset_url": "https://raw.githubusercontent.com/marvindanig/superbook-tech-interview-handbook/master/assets",
+  "book_id": 1114,
+  "book_url": "https://bubblin.io/book/tech-interview-handbook-by-yangshun-tay"
+}
