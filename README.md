@@ -1,5 +1,4 @@
 <h1 align="center">Tech Interview Handbook</h1>
-
 <div align="center">
   <a href="https://yangshun.github.io/tech-interview-handbook/">
     <img src="./assets/images/logo.svg" alt="Tech Interview Handbook" width="400">
@@ -66,7 +65,6 @@ This book uses the [Superbook](https://bubblin.io/docs/format) format and is bro
 
 
 <blockquote><p>Date of publication: <date id="date">September 6, 2019</date></p></blockquote>
-
 ### TABLET FIRST &amp; OFFLINE FIRST
 
 Superbooks are naturally responsive and work on all browsers, all viewports and devices and all operating systems. See support information [here](https://bubblin.io/support) and the full list of supported devices [here](https://bubblin.io/devices). In general, the most ideal surface to read these books on (recommended) are the \~9&quot; tablets like the iPad or the Galaxy Tab or Kindle Fire HD, ala &apos;on-web&apos;.
@@ -123,3 +121,13 @@ The body of work on this book i.e. manuscript (text, illustrations etc.) is eith
 
 
 The sourcecode (libraries) in use for this book have been licensed by their respective owners.
+
+
+
+## [唐涛](https://www.promiselee.cn/tao)
+
+**UpdateTime:** `2019-10-4 18:52:53`
+
+**Email：**[tangtao2099@outlook.com](mailto:propro@westlake.edu.cn)
+
+**Link：** [知乎](https://www.zhihu.com/people/tang-tao-24-36/activities) [GitHub](https://github.com/tangtaoshadow)
